@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Throwback Hip Bag",
+      "price": 20,
+      "Content": "Thiết kế đẹp mắt, phong cách trẻ trung cho bạn gái luôn nổi bật, thanh lịch. Màu sắc trang nhã, dễ phối cùng nhiều kiểu trang phục khác nhau.",
+      "quantity": 1,
+      "stock": 100,
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lrxy606jront74"
+    },
+    {
+      "id": 2,
+      "name": "Lie Lie Bag",
+      "price": 30,
+      "Content": "Thiết kế đẹp mắt, phong cách trẻ trung cho bạn gái luôn nổi bật, thanh lịch. Màu sắc trang nhã, dễ phối cùng nhiều kiểu trang phục khác nhau.",
+      "quantity": 1,
+      "stock": 100,
+      "image": "https://down-vn.img.susercontent.com/file/922fc5aeebd9ff7f32b0e897f70b47ae"
+    },
+    {
+      "id": 3,
+      "name": "Beautiful handbag",
+      "price": 10,
+      "Content": "Thiết kế đẹp mắt, phong cách trẻ trung cho bạn gái luôn nổi bật, thanh lịch. Màu sắc trang nhã, dễ phối cùng nhiều kiểu trang phục khác nhau.",
+      "quantity": 1,
+      "stock": 100,
+      "image": "https://down-vn.img.susercontent.com/vn-11134207-7r98o-lrxw53f6xyu155"
+    }
+  ],
+  "cart": [
+    
+  ]
+}
